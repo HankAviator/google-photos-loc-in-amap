@@ -10,6 +10,7 @@
 // @match        https://photos.google.com/*
 // @run-at       document-idle
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function () {
